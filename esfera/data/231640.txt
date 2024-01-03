@@ -1,0 +1,2 @@
+este documento es para empezar a entrenar la red neuronal, va a tener textos que van a ser los que van a entrenar a la ia, es dificil saber por donde empezar pero es un comienzo
+
